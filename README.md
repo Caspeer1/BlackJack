@@ -1,4 +1,4 @@
-# CSCI2020U-Final-Project
+# BlackJack - Software Systems Dev. & Integ
 
 Contributors:
 | Member Name                | GitHub Username    |
