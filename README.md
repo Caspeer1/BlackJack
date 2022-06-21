@@ -1,4 +1,4 @@
-# BlackJack - Software Systems Dev. & Integ
+# BlackJack - Software Systems Dev. & Integ.
 
 Contributors:
 | Member Name                | GitHub Username    |
