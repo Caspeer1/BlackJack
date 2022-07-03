@@ -19,5 +19,3 @@ Resources
 Inspiration for project: https://github.com/dylanparsons/BlackJack
 Table image: https://github.com/dylanparsons/BlackJack/blob/master/resources/table.png
 StartScreen: http://baltorogames.com/blackjack_835.html
-Cards: Taken from Blackboard Assignment One
-
